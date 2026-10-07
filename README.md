@@ -33,4 +33,3 @@ The project combines 3D environment design, VR interaction development, and coll
 - Developed VR interaction functionality using C# and XR Interaction Toolkit.
 - Collaborated with another developer on environment integration and functionality.
 - created interactive water simulation
-- 
